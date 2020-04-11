@@ -1,0 +1,58 @@
+body{
+    margin: 0;
+    font-family: 'popping,'sans-serif;
+}
+h1{
+    font-size: 50px;
+}
+h2{
+    font-size: 40px;
+}
+
+.orange-highlighr{
+    
+    color: orange;
+}
+.half-wthid{
+    width: 20%;
+    float:left;
+    margin: 5%;
+    padding: 2%;
+}
+
+}
+.half-wthid img{
+    width: 150%;
+}
+.top-banner{
+    border:1px tomato;
+    background-image: url("top-banner.png");
+    background-repeat: no-repeat;
+}
+.section{
+    width: 500px; 
+    padding-bottom: 100px;
+    Display: inline;
+{
+
+.link-button{
+    text-decoration: none;
+    background-color: linear-gradient(45deg.lightgreen, tomato);
+    color:white;
+
+    padding: 10px 20px ;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+}
+.dream_aera{
+    background-image: url(dream-bg.png);
+    background-repeat: no-repeat;
+    position:right;
+}
+.Expericence-area{
+    box-shadow: 10px 10px 40px gray ;
+}
+.single-experice img{
+    background-image: url("exp-bg.png");
+}
